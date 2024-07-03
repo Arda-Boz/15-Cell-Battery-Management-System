@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=REGOUT Pin=NT1-1
+Removed Pin From Net: NetName=VCC Pin=NT1-2
+Removed Pin From Net: NetName=GND Pin=NT2-1
+Removed Pin From Net: NetName=BATT- Pin=NT2-2
+Removed Pin From Net: NetName=BATT- Pin=NT3-2
+Removed Pin From Net: NetName=PACK- Pin=NT4-2
+Change Component Description : Designator=C26 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C27 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C28 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=D30 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Description : Designator=D32 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Added Component: Designator=NT1(NET_TÝE_1)
+Added Component: Designator=NT2(NET_TÝE_2)
+Added Component: Designator=NT3(NET_TÝE_3)
+Added Component: Designator=NT4(NET_TÝE_3)
+Added Pin To Net: NetName=REGOUT Pin=NT1-1
+Added Pin To Net: NetName=VCC Pin=NT1-2
+Added Pin To Net: NetName=GND Pin=NT2-1
+Added Pin To Net: NetName=BATT- Pin=NT2-2
+Added Pin To Net: NetName=BATT- Pin=NT3-1
+Added Pin To Net: NetName=PACK- Pin=NT4-1
+Added Pin To Net: NetName=NetNT3_2 Pin=NT3-2
+Added Pin To Net: NetName=NetNT3_2 Pin=R56-1
+Added Net: Name=NetNT3_2
+Added Pin To Net: NetName=NetNT4_2 Pin=NT4-2
+Added Pin To Net: NetName=NetNT4_2 Pin=R57-1
+Added Net: Name=NetNT4_2
+Added Member To Class: ClassName=AFE Member=Component TP2 5011
+Added Member To Class: ClassName=AFE Member=Component TP3 5011
+Added Member To Class: ClassName=AFE Member=Component TP4 TEST POÝNT
+Added Member To Class: ClassName=AFE Member=Component TP5 TEST POÝNT
+Added Member To Class: ClassName=AFE Member=Component TP6 TEST POÝNT
+Added Member To Class: ClassName=AFE Member=Component TP7 TEST POÝNT
+Added Member To Class: ClassName=AFE Member=Component TP8 5011
+Added Member To Class: ClassName=AFE Member=Component TP9 5011
+Added Member To Class: ClassName=AFE Member=Component TP10 5011
+Added Member To Class: ClassName=AFE Member=Component TP11 5011
+Added Member To Class: ClassName=AFE Member=Component TP12 5011
+Added Member To Class: ClassName=AFE Member=Component TP13 5011
+Added Member To Class: ClassName=AFE Member=Component TP14 5011
+Added Member To Class: ClassName=AFE Member=Component TP15 5011
+Added Member To Class: ClassName=GUAGE Member=Component TP16 5011
+Added Member To Class: ClassName=GUAGE Member=Component TP17 5011
+Added Member To Class: ClassName=FET Member=Component TP18 5011
+Added Member To Class: ClassName=FET Member=Component TP19 5011
+Added Member To Class: ClassName=FET Member=Component TP20 5011
+Added Member To Class: ClassName=FET Member=Component TP21 5011
+Added Member To Class: ClassName=FET Member=Component TP22 5011
+Added Member To Class: ClassName=FET Member=Component TP23 5011
+Added Member To Class: ClassName=FET Member=Component TP24 5011
+Added Member To Class: ClassName=FET Member=Component TP25 5011
+Added Member To Class: ClassName=FET Member=Component TP26 5011
+Added Member To Class: ClassName=FET Member=Component TP29 5011
+Added Member To Class: ClassName=FET Member=Component TP30 5011
+Added Member To Class: ClassName=FET Member=Component TP31 5011
+Added Member To Class: ClassName=FET Member=Component TP32 5011

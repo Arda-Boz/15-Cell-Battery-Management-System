@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=TP2 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP3 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP8 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP9 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP10 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP11 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP12 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP13 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP14 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP15 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP16 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP17 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP18 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP19 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP20 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP21 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP22 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP23 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP24 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP25 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP26 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP29 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP30 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP31 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Footprint: Designator=TP32 Old Footprint=TP_1POS New Footprint=TP_VÝA
+Change Component Description : Designator=C26 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C27 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C28 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=D30 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Description : Designator=D32 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Library : Designator=TP2 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP3 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP8 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP9 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP10 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP11 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP12 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP13 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP14 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP15 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP16 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP17 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP18 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP19 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP20 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP21 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP22 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP23 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP24 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP25 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP26 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP29 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP30 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP31 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib
+Change Component Library : Designator=TP32 Old Library=BMS_Lib.IntLib New Library=BMS.Sch.Lib.SchLib

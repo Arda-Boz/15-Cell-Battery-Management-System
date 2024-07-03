@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=PACK- Pin=E1-1
+Removed Pin From Net: NetName=SMBC Pin=E1-2
+Removed Pin From Net: NetName=PACK- Pin=E2-1
+Removed Pin From Net: NetName=SMBD Pin=E2-2
+Removed Pin From Net: NetName=PACK- Pin=E3-1
+Removed Pin From Net: NetName=/SYSPRES Pin=E3-2
+Removed Pin From Net: NetName=PACK- Pin=E4-1
+Removed Pin From Net: NetName=WAKE Pin=E4-2
+Removed Pin From Net: NetName=PACK- Pin=E5-1
+Removed Pin From Net: NetName=/KEY Pin=E5-2
+Change Component Description : Designator=C26 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C27 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C28 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=D30 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Description : Designator=D32 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Added Pin To Net: NetName=SMBC Pin=E1-1
+Added Pin To Net: NetName=PACK- Pin=E1-2
+Added Pin To Net: NetName=SMBD Pin=E2-1
+Added Pin To Net: NetName=PACK- Pin=E2-2
+Added Pin To Net: NetName=/SYSPRES Pin=E3-1
+Added Pin To Net: NetName=PACK- Pin=E3-2
+Added Pin To Net: NetName=WAKE Pin=E4-1
+Added Pin To Net: NetName=PACK- Pin=E4-2
+Added Pin To Net: NetName=/KEY Pin=E5-1
+Added Pin To Net: NetName=PACK- Pin=E5-2
+Added Member To Class: ClassName=AFE Member=Component NT1 Net Tie
+Added Member To Class: ClassName=FET Member=Component NT2 NET Tie
+Added Member To Class: ClassName=FET Member=Component NT3 NET Tie
+Added Member To Class: ClassName=FET Member=Component NT4 NET Tie

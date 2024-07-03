@@ -1,0 +1,1 @@
+Bu proje, lityum iyon piller için optimize edilmiş bir batarya yönetim sistemi tasarlamayı amaçlamaktadır. Sistem, 15-12 hücreli lityum iyon pil içeren bir batarya paketini yönetmek üzere tasarlanmıştır. Pasif dengeleme yöntemi kullanılarak hücreler arasındaki gerilim farkı azaltılmıştır. Sistem, normal, uyku ve kapatma modlarına sahiptir. 30 Ah kapasiteyi destekleyebilir

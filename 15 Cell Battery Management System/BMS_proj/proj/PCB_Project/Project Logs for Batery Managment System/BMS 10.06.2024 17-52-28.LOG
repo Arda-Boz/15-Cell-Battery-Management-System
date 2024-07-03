@@ -1,0 +1,99 @@
+Removed Member From Class: ClassName=AFE Member=R76
+Removed Member From Class: ClassName=AFE Member=R80
+Removed Member From Class: ClassName=GUAGE Member=R106
+Removed Member From Class: ClassName=GUAGE Member=R107
+Change Component Description : Designator=C26 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C27 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C28 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=D30 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Description : Designator=D32 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Kind : Designator=NT3 Old Kind=Standard New Kind=Net Tie (In BOM)
+Change Component Kind : Designator=NT4 Old Kind=Standard New Kind=Net Tie (In BOM)
+Change Component Kind : Designator=NT1 Old Kind=Standard New Kind=Net Tie (In BOM)
+Change Component Kind : Designator=NT2 Old Kind=Standard New Kind=Net Tie (In BOM)
+Added Member To Class: ClassName=AFE Member=Component C1 885012206048
+Added Member To Class: ClassName=AFE Member=Component C3 885012206048
+Added Member To Class: ClassName=AFE Member=Component C5 885012206048
+Added Member To Class: ClassName=AFE Member=Component C7 885012206048
+Added Member To Class: ClassName=AFE Member=Component C9 885012206048
+Added Member To Class: ClassName=AFE Member=Component C11 885012206048
+Added Member To Class: ClassName=AFE Member=Component C13 885012206048
+Added Member To Class: ClassName=AFE Member=Component C15 885012206048
+Added Member To Class: ClassName=AFE Member=Component D2 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component D4 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component D10 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component D12 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component D14 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component D15 MMSZ5232BS-7-F
+Added Member To Class: ClassName=AFE Member=Component R4 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R6 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R7 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R8 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R9 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R10 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R11 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R12 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R13 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R14 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R15 CRCW201028R7FKEF
+Added Member To Class: ClassName=AFE Member=Component R40 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R41 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R42 CRCW060310K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R43 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R44 CRCW060310K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R45 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R46 CRCW060310K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R47 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R49 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R50 CRCW060310K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R51 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R52 CRCW06030000Z0EA
+Added Member To Class: ClassName=AFE Member=Component R53 CRCW06030000Z0EA
+Added Member To Class: ClassName=AFE Member=Component R54 CRCW06030000Z0EA
+Added Member To Class: ClassName=AFE Member=Component R55 CRCW0603499KFKEA
+Added Member To Class: ClassName=AFE Member=Component R56 CRCW0805100RFKEA
+Added Member To Class: ClassName=AFE Member=Component R57 CRCW0805100RFKEA
+Added Member To Class: ClassName=AFE Member=Component R58 CRCW060310K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R59 CRCW0805100KFKEA
+Added Member To Class: ClassName=AFE Member=Component R61 CRCW0805100KFKEA
+Added Member To Class: ClassName=AFE Member=Component R62 CRCW20101K00JNEF
+Added Member To Class: ClassName=AFE Member=Component R63 CRCW2010750RJNEF
+Added Member To Class: ClassName=AFE Member=Component R64 CRCW060351K0JNEA
+Added Member To Class: ClassName=AFE Member=Component R65 CRCW060310M0FKEA
+Added Member To Class: ClassName=AFE Member=Component R67 CRCW0805100KFKEA
+Added Member To Class: ClassName=AFE Member=Component R68 CRCW06031K00JNEA
+Added Member To Class: ClassName=AFE Member=Component R69 CRCW060310M0FKEA
+Added Member To Class: ClassName=AFE Member=Component R70 CRCW06031M00JNEA
+Added Member To Class: ClassName=GUAGE Member=Component R71 CRCW06031K00JNEA
+Added Member To Class: ClassName=GUAGE Member=Component R72 CRCW06031K00JNEA
+Added Member To Class: ClassName=GUAGE Member=Component R73 CRCW0603100RJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R74 RG1608P-304-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R75 CRCW0603100RJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R77 RG1608P-304-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R78 CRCW06031M00JNEA
+Added Member To Class: ClassName=GUAGE Member=Component R79 CRCW06030000Z0EA
+Added Member To Class: ClassName=GUAGE Member=Component R81 RG1608P-103-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R82 RG1608P-304-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R83 RG1608P-304-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R84 RG1608P-103-B-T5
+Added Member To Class: ClassName=GUAGE Member=Component R85 CRCW0603220KJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R86 CRCW0603100KJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R87 CRCW0603510KJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R88 CRCW0603510KJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R89 CRCW0603510KJNEA
+Added Member To Class: ClassName=GUAGE Member=Component R90 CRCW0603510KJNEA
+Added Member To Class: ClassName=FET Member=Component R91 CRCW06030000Z0EA
+Added Member To Class: ClassName=FET Member=Component R92 CRCW06030000Z0EA
+Added Member To Class: ClassName=FET Member=Component R93 CRCW0603100RFKEA
+Added Member To Class: ClassName=FET Member=Component R94 CRCW060310M0FKEA
+Added Member To Class: ClassName=FET Member=Component R95 CRCW25121K20JNEG
+Added Member To Class: ClassName=FET Member=Component R96 CRCW25121K20JNEG
+Added Member To Class: ClassName=FET Member=Component R97 CRCW25121K20JNEG
+Added Member To Class: ClassName=FET Member=Component R98 CSNL2010FT1L00
+Added Member To Class: ClassName=FET Member=Component R99 CSNL2010FT1L00
+Added Member To Class: ClassName=FET Member=Component R100 CRCW25121K20JNEG
+Added Member To Class: ClassName=FET Member=Component R101 CRCW060310M0FKEA
+Added Member To Class: ClassName=FET Member=Component R102 CRCW0603620RJNEA
+Added Member To Class: ClassName=FET Member=Component R103 CRCW0603620RJNEA
+Added Member To Class: ClassName=FET Member=Component R104 CRCW0603620RJNEA
+Added Member To Class: ClassName=FET Member=Component R105 CRCW0603100RJNEA

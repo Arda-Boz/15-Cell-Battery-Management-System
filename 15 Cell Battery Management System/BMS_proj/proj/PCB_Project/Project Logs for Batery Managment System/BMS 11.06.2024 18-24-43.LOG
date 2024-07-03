@@ -1,0 +1,11 @@
+Change Component Description : Designator=C26 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C27 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=C28 Old Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount New Description=Capacitor, 1uF Multilayer Ceramic MLCC 16 V , X7R Dielectric 0603 Surface Mount | Wurth Electronics 885012206052
+Change Component Description : Designator=D30 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Change Component Description : Designator=D32 Old Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes New Description=Zener Diode, 16V, 0.2W, Sod-323 Rohs Compliant: Yes |Diodes Inc. MMSZ5246BS-7-F
+Added Pin To Net: NetName=PACK- Pin=D24-1
+Added Pin To Net: NetName=PACK- Pin=D25-1
+Added Pin To Net: NetName=PACK- Pin=D26-1
+Added Pin To Net: NetName=PACK- Pin=D27-1
+Added Pin To Net: NetName=PACK- Pin=J3-1
+Added Pin To Net: NetName=PACK- Pin=J4-1

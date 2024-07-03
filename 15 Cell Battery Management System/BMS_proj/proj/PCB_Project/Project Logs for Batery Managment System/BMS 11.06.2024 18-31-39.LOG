@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=/KEYIN Pin=R72-2
+Removed Pin From Net: NetName=/KEYIN Pin=R76-2
+Removed Pin From Net: NetName=/KEYIN Pin=U2-8
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=NetR72_2 Pin=R76-2
+Added Pin To Net: NetName=NetR72_2 Pin=U2-8
+Added Net: Name=NetR72_2
